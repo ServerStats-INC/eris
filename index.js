@@ -9,7 +9,6 @@ function Eris(token, options) {
 Eris.AutocompleteInteraction = require("./lib/structures/AutocompleteInteraction");
 Eris.Base = require("./lib/structures/Base");
 Eris.Bucket = require("./lib/util/Bucket");
-Eris.Call = require("./lib/structures/Call");
 Eris.CategoryChannel = require("./lib/structures/CategoryChannel");
 Eris.Channel = require("./lib/structures/Channel");
 Eris.CommandInteraction = require("./lib/structures/CommandInteraction");
@@ -59,6 +58,5 @@ Eris.VERSION = require("./package.json").version;
 Eris.VoiceChannel = require("./lib/structures/VoiceChannel");
 Eris.VoiceConnection = require("./lib/voice/VoiceConnection");
 Eris.VoiceConnectionManager = require("./lib/voice/VoiceConnectionManager");
-Eris.VoiceState = require("./lib/structures/VoiceState");
 
 module.exports = Eris;

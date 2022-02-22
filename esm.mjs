@@ -8,7 +8,6 @@ export const {
   AutocompleteInteraction,
   Base,
   Bucket,
-  Call,
   CategoryChannel,
   Channel,
   Client,
@@ -58,5 +57,4 @@ export const {
   VoiceChannel,
   VoiceConnection,
   VoiceConnectionManager,
-  VoiceState
 } = Eris;
