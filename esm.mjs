@@ -12,8 +12,6 @@ export const {
   Channel,
   Client,
   Collection,
-  Command,
-  CommandClient,
   CommandInteraction,
   ComponentInteraction,
   Constants,
