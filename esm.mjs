@@ -36,7 +36,6 @@ export const {
   Role,
   SequentialBucket,
   Shard,
-  SharedStream,
   StageChannel,
   StageInstance,
   StoreChannel,
@@ -46,6 +45,4 @@ export const {
   User,
   VERSION,
   VoiceChannel,
-  VoiceConnection,
-  VoiceConnectionManager,
 } = Eris;
