@@ -23,7 +23,6 @@ Eris.Guild = require("./lib/structures/Guild");
 Eris.GuildChannel = require("./lib/structures/GuildChannel");
 Eris.GuildIntegration = require("./lib/structures/GuildIntegration");
 Eris.GuildPreview = require("./lib/structures/GuildPreview");
-Eris.GuildTemplate = require("./lib/structures/GuildTemplate");
 Eris.Interaction = require("./lib/structures/Interaction");
 Eris.Invite = require("./lib/structures/Invite");
 Eris.Member = require("./lib/structures/Member");
