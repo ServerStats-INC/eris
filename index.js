@@ -32,7 +32,6 @@ Eris.NewsChannel = require("./lib/structures/NewsChannel");
 Eris.Permission = require("./lib/structures/Permission");
 Eris.PermissionOverwrite = require("./lib/structures/PermissionOverwrite");
 Eris.PingInteraction = require("./lib/structures/PingInteraction");
-Eris.Relationship = require("./lib/structures/Relationship");
 Eris.RequestHandler = require("./lib/rest/RequestHandler");
 Eris.Role = require("./lib/structures/Role");
 Eris.SequentialBucket = require("./lib/util/SequentialBucket");

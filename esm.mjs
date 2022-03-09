@@ -31,7 +31,6 @@ export const {
   Permission,
   PermissionOverwrite,
   PingInteraction,
-  Relationship,
   RequestHandler,
   Role,
   SequentialBucket,
