@@ -25,7 +25,6 @@ Eris.GuildIntegration = require("./lib/structures/GuildIntegration");
 Eris.Interaction = require("./lib/structures/Interaction");
 Eris.Invite = require("./lib/structures/Invite");
 Eris.Member = require("./lib/structures/Member");
-Eris.Message = require("./lib/structures/Message");
 Eris.NewsChannel = require("./lib/structures/NewsChannel");
 Eris.Permission = require("./lib/structures/Permission");
 Eris.PermissionOverwrite = require("./lib/structures/PermissionOverwrite");

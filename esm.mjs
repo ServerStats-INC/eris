@@ -24,7 +24,6 @@ export const {
   Interaction,
   Invite,
   Member,
-  Message,
   NewsChannel,
   Permission,
   PermissionOverwrite,
