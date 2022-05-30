@@ -37,7 +37,6 @@ export const {
   StoreChannel,
   TextChannel,
   UnavailableGuild,
-  UnknownInteraction,
   User,
   VERSION,
   VoiceChannel,

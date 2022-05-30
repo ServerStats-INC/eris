@@ -38,7 +38,6 @@ Eris.StageInstance = require("./lib/structures/StageInstance");
 Eris.StoreChannel = require("./lib/structures/StoreChannel");
 Eris.TextChannel = require("./lib/structures/TextChannel");
 Eris.UnavailableGuild = require("./lib/structures/UnavailableGuild");
-Eris.UnknownInteraction = require("./lib/structures/UnknownInteraction");
 Eris.User = require("./lib/structures/User");
 Eris.VERSION = require("./package.json").version;
 Eris.VoiceChannel = require("./lib/structures/VoiceChannel");
