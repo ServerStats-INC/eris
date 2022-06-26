@@ -20,7 +20,6 @@ export const {
   ExtendedUser,
   Guild,
   GuildChannel,
-  GuildIntegration,
   Interaction,
   Invite,
   Member,
