@@ -17,7 +17,6 @@ export const {
   Constants,
   DiscordHTTPError,
   DiscordRESTError,
-  ExtendedUser,
   Guild,
   GuildChannel,
   Interaction,
@@ -36,7 +35,6 @@ export const {
   StoreChannel,
   TextChannel,
   UnavailableGuild,
-  User,
   VERSION,
   VoiceChannel,
 } = Eris;

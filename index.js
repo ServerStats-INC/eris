@@ -18,7 +18,6 @@ Eris.Collection = require("./lib/util/Collection");
 Eris.Constants = require("./lib/Constants");
 Eris.DiscordHTTPError = require("./lib/errors/DiscordHTTPError");
 Eris.DiscordRESTError = require("./lib/errors/DiscordRESTError");
-Eris.ExtendedUser = require("./lib/structures/ExtendedUser");
 Eris.Guild = require("./lib/structures/Guild");
 Eris.GuildChannel = require("./lib/structures/GuildChannel");
 Eris.Interaction = require("./lib/structures/Interaction");
@@ -35,7 +34,6 @@ Eris.Shard = require("./lib/gateway/Shard");
 Eris.StageChannel = require("./lib/structures/StageChannel");
 Eris.TextChannel = require("./lib/structures/TextChannel");
 Eris.UnavailableGuild = require("./lib/structures/UnavailableGuild");
-Eris.User = require("./lib/structures/User");
 Eris.VERSION = require("./package.json").version;
 Eris.VoiceChannel = require("./lib/structures/VoiceChannel");
 
