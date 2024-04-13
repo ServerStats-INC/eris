@@ -1,6 +1,6 @@
 {
   "name": "eris",
-  "version": "0.16.3-SS",
+  "version": "2.0.0-SS",
   "description": "A NodeJS Discord library",
   "main": "./index.js",
   "exports": {
@@ -43,7 +43,7 @@
   "homepage": "https://abal.moe/Eris/",
   "dependencies": {
     "ioredis": "^5.3.2",
-    "ws": "^8.13.0"
+    "ws": "^8.16.0"
   },
   "devDependencies": {
     "@types/node": "^20.3.1",
