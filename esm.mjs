@@ -1,6 +1,6 @@
-import Eris from "./index.js";
+import Eris from './index.js';
 
-export default function(token, options) {
+export default function (token, options) {
   return new Eris.Client(token, options);
 }
 
@@ -17,6 +17,7 @@ export const {
   Constants,
   DiscordHTTPError,
   DiscordRESTError,
+  Entitlement,
   Guild,
   GuildChannel,
   Interaction,
@@ -36,5 +37,5 @@ export const {
   TextChannel,
   UnavailableGuild,
   VERSION,
-  VoiceChannel,
+  VoiceChannel
 } = Eris;
